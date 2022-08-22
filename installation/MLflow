@@ -1,0 +1,6 @@
+#from mac m2 terminal pest this command
+pip3 install mlflow
+#once install we will run this command
+mlflow ui
+#open web ui
+http://localhost:5000/
